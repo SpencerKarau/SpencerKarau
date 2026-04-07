@@ -6,6 +6,12 @@ body {
   padding: 50px;
 }
 
+img {
+  width: 250px;
+  border-radius: 0%;
+  margin-top: 5px;
+  margin-bottom: 20px;
+}
 
 a {
   color: #8ab4f8;
