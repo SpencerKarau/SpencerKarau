@@ -21,27 +21,3 @@ p {
   line-height: 3.2;
   margin-bottom: 16px;
 }
-
-/*Mobile styles*/
-@media (max-width: 600px) {
-  body {
-    padding: 20px;
-    text-align: center;
-  }
-
-  img {
-    width: 180px;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-  }
-
-  a {
-  color: #ffb86c;
-}
-
-  p {
-    font-size: 16px;
-  }
-
-}
